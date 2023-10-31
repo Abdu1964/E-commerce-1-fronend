@@ -117,7 +117,7 @@ function Navbar() {
                     Login
                   </Link>
                   <Link className="dropdown-item" to="/register">
-                    Create Account
+                    Create an Account
                   </Link>
                 </div>
               </li>
